@@ -9,7 +9,7 @@ Samples from the GRD. The first row represents the raw GPR images, the second ro
 If you wish to obtain this database, please follow the steps below:
 
 #### Read the License Agreement: Please click the link below to download the license agreement file and carefully read the relevant terms.
-[Click to download the License Agreement](GM-GRD_License_Agreement.pdf)
+[Click to download the License Agreement](GM-GRD License Agreement.pdf)
 
 #### Fill out the Application Form: Complete the Access Application Form in the above-mentioned license agreement file.
 
