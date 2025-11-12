@@ -1,7 +1,7 @@
 # GM-GRD
 A large-scale real GPR dataset (GRD) for Ground Penetrating Radar B-Scan image research.
 
-![Samples from the GRD. The first row represents the raw GPR images, the second row represents the processed GPR images, the third row represents annotated images of subsurface defects.](GM-GRD_sample.png)
+![Samples from the GRD. The first row represents the raw GPR images, the second row represents the processed GPR images, the third row represents annotated images of subsurface defects.](GM-GRD_sample.jpg)
 
 Samples from the GRD. The first row represents the raw GPR images, the second row represents the processed GPR images, the third row represents annotated images of subsurface defects.
 
